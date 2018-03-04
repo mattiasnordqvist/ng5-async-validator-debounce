@@ -1,0 +1,26 @@
+{
+  "name": "ng5-async-debounce",
+  "version": "0.0.3",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Mattias Nordqvist (mattias.nordqvist@gmail.com)",
+  "keywords": [],
+  "license": "ISC",
+  "peerDependencies": {
+    "@angular/core": "^5.0.3",
+    "rxjs": "^5.5.2",
+    "zone.js": "^0.8.4"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "@angular/forms": "^5.2.7",
+    "rxjs": "^5.5.6",
+    "zone.js": "^0.8.20"
+  }
+}
