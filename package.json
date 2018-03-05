@@ -1,11 +1,15 @@
 {
   "name": "ng5-async-debounce",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/mattiasnordqvist/ng5-async-validator-debounce.git"
   },
   "author": "Mattias Nordqvist (mattias.nordqvist@gmail.com)",
   "keywords": [],
